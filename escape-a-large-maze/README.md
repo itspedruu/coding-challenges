@@ -1,0 +1,8 @@
+## Escape a Large Maze - Difficulty: HARD
+
+This was my first LeetCode *Why did I let LeetCode choose a random challenge for me?*. Well, this was a painful challenge it took me like 2 days of thinking but i accomplished the success. This challenges consists in checking if given an source coordinates check if it's possible to reach an given target coordinates moving in 4-directional way *up, down, left and right* in a 1 million by 1 million grid and it may happen to have blocked cells with a max of 200 blocked cells.
+My algorithm starts by checking the distance between the source and the target, if the distance is higher than 200, it gets 4 blocks in a radius of 200 from the source cell and from the target cell and attempts to reach at least one of the them from the source cell and from the target cell. If both source cell and target cell can reach a block within a radius of 200, the escape from source to target is possible if not it's impossible. Otherwise, if the distance is lower than 200, tries to reach the target cell from the source cell by moving in 4-directional way to the target. This method checks for the nearest cell to the target until he reachs the target, if in this method the path reachs a location where he can't move anymore due to blocked cells, he tries again and ignores the previous path.
+
+## My performance
+
+![My performance](https://raw.githubusercontent.com/itspedruu/leetcode-solutions/master/escape-a-large-maze/success_screenshot.png)
