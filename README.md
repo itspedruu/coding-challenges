@@ -1,3 +1,3 @@
-## What is LeetCode?
+## What is the purpose of this repository?
 
-[LeetCode](https://leetcode.com/) is a online platform which challenges you to solve a problem with code. This platform is really helpful for in-coming interviews. This repository contains all my LeetCode solutions.
+This repository stores all my solutions for coding challengs i found in the web. Most of them are from [LeetCode](https://leetcode.com), which is a great platform to solve problems with code.
