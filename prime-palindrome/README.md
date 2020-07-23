@@ -12,4 +12,4 @@ For example, 12321 is a palindrome.
 
 # My performance
 
-![My performance](https://raw.githubusercontent.com/itspedruu/leetcode-solutions/master/prime-palindrome/success_screenshot.png)
+![My performance](https://raw.githubusercontent.com/itspedruu/coding-challenges/master/prime-palindrome/success_screenshot.png)

@@ -10,7 +10,7 @@ Given a function `f(x, y)` and a value `z`, return all positive integer pairs `x
 
 # My performance
 
-![My performance](https://raw.githubusercontent.com/itspedruu/leetcode-solutions/master/median-of-two-sorted-arrays/success.png)
+![My performance](https://raw.githubusercontent.com/itspedruu/coding-challenges/master/median-of-two-sorted-arrays/success.png)
 
 # Source
 

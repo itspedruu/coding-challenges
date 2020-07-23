@@ -4,4 +4,4 @@ This challenge consisted on given n points that are all pairwise, get the maximu
 
 ## My perfomance
 
-![My performance](https://raw.githubusercontent.com/itspedruu/leetcode-solutions/master/number-of-boomerangs/success_screenshot.png)
+![My performance](https://raw.githubusercontent.com/itspedruu/coding-challenges/master/number-of-boomerangs/success_screenshot.png)

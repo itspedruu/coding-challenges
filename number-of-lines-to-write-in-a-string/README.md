@@ -4,4 +4,4 @@ This challenge consisted on write the letters of a given string `S`, from left t
 
 ## My perfomance
 
-![My performance](https://raw.githubusercontent.com/itspedruu/leetcode-solutions/master/number-of-lines-to-write-in-a-string/success_screenshot.png)
+![My performance](https://raw.githubusercontent.com/itspedruu/coding-challenges/master/number-of-lines-to-write-in-a-string/success_screenshot.png)

@@ -8,4 +8,4 @@ Return the number of good pairs.
 
 # My performance
 
-![My performance](https://raw.githubusercontent.com/itspedruu/leetcode-solutions/master/number-of-good-pairs/success_screenshot.png)
+![My performance](https://raw.githubusercontent.com/itspedruu/coding-challenges/master/number-of-good-pairs/success_screenshot.png)

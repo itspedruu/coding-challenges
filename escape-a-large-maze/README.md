@@ -5,4 +5,4 @@ My algorithm starts by checking the distance between the source and the target, 
 
 ## My performance
 
-![My performance](https://raw.githubusercontent.com/itspedruu/leetcode-solutions/master/escape-a-large-maze/success_screenshot.png)
+![My performance](https://raw.githubusercontent.com/itspedruu/coding-challenges/master/escape-a-large-maze/success_screenshot.png)
